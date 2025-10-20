@@ -1,7 +1,7 @@
 annotated-types==0.7.0
 anyio==4.9.0
 cfgv==3.4.0
-click==8.2.1
+click==8.1.7
 distlib==0.3.9
 fastapi==0.115.12
 fastapi-cli==0.0.7
@@ -19,8 +19,7 @@ nodeenv==1.9.1
 pathspec==0.12.1
 platformdirs==4.3.8
 pre_commit==4.2.0
-psycopg==3.2.9
-psycopg-binary==3.2.9
+psycopg[binary]
 pydantic==2.11.5
 pydantic-settings==2.9.1
 pydantic_core==2.33.2
